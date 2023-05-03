@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akriti-in
 - 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning kotlin, sql, networking..
-- 💞️ I’m looking to collaborate with cisco company
 - 📫 You can reach to me through my mail sakriti249@gmail.com
 
 <!---
